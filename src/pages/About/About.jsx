@@ -60,8 +60,8 @@ function About() {
           <div className={styles.member}>
             <div className={styles.memberAvatar}>👤</div>
             <div>
-              <p className={styles.memberName}>(Nome do Aluno)</p>
-              <p className={styles.memberRa}>RA: (insira seu RA)</p>
+              <p className={styles.memberName}>Alan Gabriel Alosnso Fernandez</p>
+              <p className={styles.memberRa}>RA: 5167638</p>
             </div>
           </div>
         </section>
