@@ -56,12 +56,12 @@ O componente simula um videogame portátil com tela e controles físicos. O usu�
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/touzand/projeto-final-camilo.git
 ```
 
 2. Acesse a pasta do projeto:
 ```bash
-cd seu-repositorio
+cd projeto-final-camilo
 ```
 
 3. Instale as dependências:
@@ -119,5 +119,5 @@ src/
 
 ## Link do Repositório
 
-[GitHub - seu-usuario/seu-repositorio](https://github.com/seu-usuario/seu-repositorio)
+[GitHub - touzand/projeto-final-camilo](https://github.com/touzand/projeto-final-camilo)
 # projeto-final-camilo

@@ -26,7 +26,12 @@ function About() {
           <h2>Disciplina</h2>
           <p>Linguagem de Programação para Internet</p>
           <p>Professor: Dr. Camilo Barreto</p>
-          <p>UNIUBE - Grande Área de Computação</p>
+            <p>UNIUBE - Grande Área de Computação</p>
+          <p className={styles.repo}>
+            <a href="https://github.com/touzand/projeto-final-camilo" target="_blank" rel="noopener noreferrer">
+              🔗 GitHub: touzand/projeto-final-camilo
+            </a>
+          </p>
         </section>
 
         <section className={styles.section}>
