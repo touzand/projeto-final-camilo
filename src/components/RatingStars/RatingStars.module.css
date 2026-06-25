@@ -1,0 +1,30 @@
+.stars {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
+
+.star {
+  font-size: 1.2rem;
+  cursor: default;
+  transition: color var(--transition);
+}
+
+.star:hover {
+  transform: scale(1.1);
+}
+
+.filled {
+  color: var(--gold);
+}
+
+.empty {
+  color: var(--border);
+}
+
+.value {
+  margin-left: 6px;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  font-weight: 600;
+}
